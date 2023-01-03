@@ -1,0 +1,62 @@
+coler;màu
+why;tại sao
+ress;buồn
+ly;quá kỳ
+tan;Phạm Văn Tân
+expert;chuyên gia
+initiative;sáng kiến
+proposal;đề xuất
+promising;tiềm năng
+pathway;đường mòn
+ladder;cái thang
+annual;hằng năm
+go;đi đến
+take;lấy
+hand;trao tay
+display;trưng bày cấu hình
+passing;ngang qua
+learn;học
+lean;dựa
+homework;bài tập về nhà
+developer;nhà phát triền
+socket;ô điện
+machine;máy
+type;loai
+fill;điền
+bag;túi balo
+lift;dich chuyển
+excute;thực thi
+mug;ca co qai
+share;chise
+garpet;thảm
+coler;màu
+why;tại sao
+ress;buồn
+ly;quá kỳ
+tan;Phạm Văn Tân
+expert;chuyên gia
+initiative;sáng kiến
+proposal;đề xuất
+promising;tiềm năng
+pathway;đường mòn
+ladder;cái thang
+annual;hằng năm
+go;đi đến
+take;lấy
+hand;trao tay
+display;trưng bày cấu hình
+passing;ngang qua
+learn;học
+lean;dựa
+homework;bài tập về nhà
+developer;nhà phát triền
+socket;ô điện
+machine;máy
+type;loai
+fill;điền
+bag;túi balo
+lift;dich chuyển
+excute;thực thi
+mug;ca co qai
+share;chise
+garpet;thảm
